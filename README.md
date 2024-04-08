@@ -28,4 +28,4 @@ tumor volume is 0.84.
 Navigate to the repo direcotry and launch a jupyter notebook via "python -m notebook" and open the "pymaceuticals_analysis.ipynb" file. Once open, all dependencies are imported so you just need to run each cell in the notebook. 
 
 #License
-Specify the license under which your project is released Apache.
+Apache License 2.0.
